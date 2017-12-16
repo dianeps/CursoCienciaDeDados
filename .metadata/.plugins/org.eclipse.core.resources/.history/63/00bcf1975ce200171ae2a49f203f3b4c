@@ -1,0 +1,16 @@
+package TrabArq.Part1;
+
+import java.util.List;
+
+import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaPairRDD;
+import org.apache.spark.api.java.JavaRDD;
+import org.apache.spark.api.java.JavaSparkContext;
+
+import scala.Tuple3;
+
+public class QtdPets {
+	public static void main (String[] args) {
+		
+	}
+}
